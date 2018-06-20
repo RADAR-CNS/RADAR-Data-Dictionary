@@ -1,5 +1,5 @@
 # RADAR-Data-Dictionary
-Versioning for Redcap Data Dictionaries for RADAR-CNS projects
+Versioning for Redcap Data Dictionaries for RADAR-CNS projects, these are used to create the JSON configuration file that defines the aRMT apps questionnaires.
 
 Instructions
 -------------
